@@ -3,3 +3,5 @@ Test
 Test2
 
 source code logic
+
+add(a+b);
